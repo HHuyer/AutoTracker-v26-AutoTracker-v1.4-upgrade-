@@ -12,4 +12,4 @@ https://github.com/colmap/glomap/releases
 <br>
 <br>
 ## UWatch this video:
-[![This Video](https://youtube.com)](https://www.youtube.com/watch?v=PhdEk_RxkGQ)
+[![This 3D tracking workflow just got a lot faster! (COLMAP → GLOMAP)](https://youtube.com)](https://www.youtube.com/watch?v=PhdEk_RxkGQ)
