@@ -6,13 +6,14 @@
 
 ## 📌 Version Compatibility
 
-### 🔹 v2.7
-Working on **Colmap version 4.x+**  
-*(Colmap 4.0.2 , Glomap 1.2.0)*
-
 ### 🔹 v1.6
 Working on **Colmap version <4.x**  
 *(Colmap 3.12.3 , Glomap 1.1.0)*
+
+
+### 🔹 v2.7
+Working on **Colmap version 4.x+**  
+*(Colmap 4.0.2 , Glomap 1.2.0)*
 
 <br>
 
