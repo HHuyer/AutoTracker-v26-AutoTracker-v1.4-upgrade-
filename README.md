@@ -1,17 +1,35 @@
-# AutoTracker-v26-AutoTracker-v1.4-upgrade-
-AutoTracker v1.4 upgrade for new col/golmap version
+# 🚀 AutoTracker-v26 — AutoTracker v1.4 Upgrade
 
-## v2.7 working on Colmap vesion 4.x+ ( Colmap 4.0.2 , Glomap 1.2.0 )
-## v1.6 working on Colmap vesion <4.x ( Colmap 3.12.3 , Glomap 1.1.0 )
+**AutoTracker v1.4 upgrade for new col/golmap version**
+
+---
+
+## 📌 Version Compatibility
+
+### 🔹 v2.7
+Working on **Colmap version 4.x+**  
+*(Colmap 4.0.2 , Glomap 1.2.0)*
+
+### 🔹 v1.6
+Working on **Colmap version <4.x**  
+*(Colmap 3.12.3 , Glomap 1.1.0)*
+
 <br>
-<br>
-### Lastest Colmap:
+
+---
+
+## 📥 Lastest Releases
+
+### 🔗 Lastest Colmap:
 https://github.com/colmap/colmap/releases
 
-### Lastest Glomap:
+### 🔗 Lastest Glomap:
 https://github.com/colmap/glomap/releases
+
 <br>
-<br>
-<br>
-## UWatch this video:
+
+---
+
+## 🎥 UWatch this video:
+
 [![This 3D tracking workflow just got a lot faster! (COLMAP → GLOMAP)](https://youtube.com)](https://www.youtube.com/watch?v=PhdEk_RxkGQ)
