@@ -1,8 +1,9 @@
 # AutoTracker-v26-AutoTracker-v1.4-upgrade-
 AutoTracker v1.4 upgrade for new col/golmap version
 
-## this script working on Colmap vesion 4.x+ ( Colmap 4.0.2 , Glomap 1.2.0 )
-
+## v2.7 working on Colmap vesion 4.x+ ( Colmap 4.0.2 , Glomap 1.2.0 )
+## v1.6 working on Colmap vesion <4.x ( Colmap 3.12.3 , Glomap 1.1.0 )
+<br>
 ### Lastest Colmap:
 https://github.com/colmap/colmap/releases
 
