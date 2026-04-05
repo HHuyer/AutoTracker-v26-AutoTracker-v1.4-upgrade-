@@ -11,7 +11,7 @@ Working on **Colmap version <4.x**
 *(Colmap 3.12.3 , Glomap 1.1.0)*
 
 
-### 🔹 v2.7
+### 🔹 v2.7 ***BUG*** letmefix
 Working on **Colmap version 4.x+**  
 *(Colmap 4.0.2 , Glomap 1.2.0)*
 
