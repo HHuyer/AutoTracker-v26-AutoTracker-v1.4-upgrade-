@@ -12,4 +12,4 @@ https://github.com/colmap/glomap/releases
 <br>
 <br>
 ## UWatch this video:
-[![UWatch This Video](https://youtube.com)](https://www.youtube.com/watch?v=PhdEk_RxkGQ)
+[![This Video](https://youtube.com)](https://www.youtube.com/watch?v=PhdEk_RxkGQ)
